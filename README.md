@@ -1,6 +1,6 @@
-## Hello there <img src="https://emojis.slackmojis.com/emojis/images/1512575375/3252/kenobi.png?1512575375" width=15px>
+## Hello there <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/bluelightsaber.png" width=20px>
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1607648838/11683/ahsoka.png?1607648838" width=20px> About me
+### <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/ahsoka.png" width=20px> About me
 
 - A Star Wars fan.
 - A code lover.

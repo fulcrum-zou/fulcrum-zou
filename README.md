@@ -20,7 +20,7 @@
 ### <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/r2d2.png" width=22px> How to reach me
 
 - Mail: zouyt8@mail2.sysu.edu.cn
--  WeChat: \_Fulcrum\_
+- WeChat: [\_Fulcrum\_](https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/wechat.jpeg)
 
 ### <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/baby-yoda.gif" width=22px> Stats
 

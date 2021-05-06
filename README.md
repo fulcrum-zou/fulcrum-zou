@@ -1,4 +1,6 @@
-## Hello there <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/bluelightsaber.png" width=22px>
+![Header](https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/fulcrum.jpeg "Header")
+
+<!-- ## Hello there <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/bluelightsaber.png" width=22px> -->
 
 ### <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/ahsoka.png" width=22px> About me
 
@@ -19,8 +21,3 @@
 
 - Mail: zouyt8@mail2.sysu.edu.cn
 -  WeChat: \_Fulcrum\_
-
-![Header](https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/fulcrum.jpeg "Header")
-
-
-

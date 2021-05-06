@@ -1,6 +1,6 @@
-## Hello there <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/bluelightsaber.png" width=20px>
+## Hello there <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/bluelightsaber.png" width=22px>
 
-### <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/ahsoka.png" width=20px> About me
+### <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/ahsoka.png" width=22px> About me
 
 - A Star Wars fan.
 - A code lover.
@@ -15,7 +15,7 @@
 - I like NLP, and a little bit of everything.
 - If you love Star Wars and coding, do not hesitate to contact me!
 
-### <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/r2d2.png" width=20px> How to reach me
+### <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/r2d2.png" width=22px> How to reach me
 
 - Mail: zouyt8@mail2.sysu.edu.cn
 -  WeChat: \_Fulcrum\_

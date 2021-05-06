@@ -22,4 +22,6 @@
 - Mail: zouyt8@mail2.sysu.edu.cn
 -  WeChat: \_Fulcrum\_
 
+### <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/baby-yoda.gif" width=22px> Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fulcrum-zou)](https://github.com/anuraghazra/github-readme-stats)

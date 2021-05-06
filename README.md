@@ -21,3 +21,5 @@
 
 - Mail: zouyt8@mail2.sysu.edu.cn
 -  WeChat: \_Fulcrum\_
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fulcrum-zou)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,4 +1,4 @@
-![Header](https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/fulcrum.jpeg "Header")
+<!-- ![Header](https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/fulcrum.jpeg "Header") -->
 
 <!-- ## Hello there <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/bluelightsaber.png" width=22px> -->
 

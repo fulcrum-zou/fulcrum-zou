@@ -3,6 +3,7 @@
 <!-- ## Hello there <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/bluelightsaber.png" width=22px> -->
 
 ### <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/ahsoka.png" width=22px> About me
+**干啥啥不行，不务正业第一名！**
 
 - A Star Wars fan.
 - A code lover.

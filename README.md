@@ -8,7 +8,7 @@
 - A Star Wars fan.
 - A code lover.
 - A student majoring in Computer Science.
-- A junior at Sun Yat-sen University.
+- A senior at Sun Yat-sen University.
 - To be continued...
 
 ### <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/clone_trooper.png" width=20px> Introduction

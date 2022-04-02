@@ -5,7 +5,7 @@
 ### <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/ahsoka.png" width=22px> About me
 **干啥啥不行，不务正业第一名！**
 
-- A Star Wars fan.
+<!-- - A Star Wars fan.
 - A code lover.
 - A student majoring in Computer Science.
 - A senior at Sun Yat-sen University.
@@ -23,5 +23,5 @@
 - Mail: zouyt8@mail2.sysu.edu.cn
 
 ### <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/baby-yoda.gif" width=22px> Stats
-
+ -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fulcrum-zou)](https://github.com/anuraghazra/github-readme-stats)

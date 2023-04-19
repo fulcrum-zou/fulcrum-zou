@@ -13,8 +13,8 @@
 
 ### <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/r2d2.png" width=22px> Introduction
 <!-- ### <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/clone_trooper.png" width=20px> Introduction -->
-- B.Eng. in Computer Science and Technology @ Sun Yat-sen University, Guangzhou
 - M.Eng. in Computer Science @ Cornell Tech, New York
+- B.Eng. in Computer Science and Technology @ Sun Yat-sen University, Guangzhou
 <!-- - I study in Sun Yat-sen University, Guangdong, China.
 - I major in Computer Science and minor in English.
 - I like NLP, and a little bit of everything.

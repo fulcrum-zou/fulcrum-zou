@@ -25,5 +25,5 @@
 - Mail: yz2664@cornell.edu -->
 
 ### <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/baby-yoda.gif" width=22px> Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fulcrum-zou)](https://github.com/anuraghazra/github-readme-stats)
+[![Fulcrum's GitHub stats](https://github-readme-stats.vercel.app/api?username=fulcrum-zou&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fulcrum-zou)](https://github.com/anuraghazra/github-readme-stats) -->

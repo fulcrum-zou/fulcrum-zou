@@ -3,15 +3,15 @@
 <!-- ## Hello there <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/bluelightsaber.png" width=22px> -->
 
 ### <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/ahsoka.png" width=22px> About me
-**干啥啥不行，不务正业第一名！**
-<!-- 
-- A Star Wars fan.
+**~~干啥啥不行，不务正业第一名！~~**
+
+<!-- - A Star Wars fan.
 - A code lover.
 - A student majoring in Computer Science.
-- A senior at Sun Yat-sen University.
+- A master student at Cornell University.
 - To be continued... -->
 
-### <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/r2d2.png" width=22px> Introduction
+### <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/r2d2.png" width=22px> Experiences
 <!-- ### <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/clone_trooper.png" width=20px> Introduction -->
 - M.Eng. in Computer Science @ Cornell Tech, New York
 - B.Eng. in Computer Science and Technology @ Sun Yat-sen University, Guangzhou

@@ -6,9 +6,6 @@
 **~~干啥啥不行，不务正业第一名！~~**
 - A Star Wars fan.
 - A code lover.
-- A student majoring in Computer Science.
-- A master student at Cornell University.
-- A software engineer at Bloomberg.
 - A violin player for 15 years.
 - To be continued...
 

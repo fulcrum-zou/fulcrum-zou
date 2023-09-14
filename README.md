@@ -27,5 +27,5 @@
 - Mail: zouyt1110@gmail.com -->
 
 ### <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/baby-yoda.gif" width=22px> Stats
-[![Fulcrum's GitHub stats](https://github-readme-stats.vercel.app/api?username=fulcrum-zou&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fulcrum-zou&theme=buefy)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fulcrum-zou)](https://github.com/anuraghazra/github-readme-stats) -->

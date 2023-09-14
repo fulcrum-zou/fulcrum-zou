@@ -11,7 +11,7 @@
 
 ### <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/r2d2.png" width=22px> Experiences
 <!-- ### <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/clone_trooper.png" width=20px> Introduction -->
-- SDE @ Bloomberg, New York
+- Software Engineer @ Bloomberg, New York
 - M.Eng. in Computer Science @ Cornell Tech, New York
 - B.Eng. in Computer Science and Technology @ Sun Yat-sen University, Guangzhou
 <!-- - I study in Sun Yat-sen University, Guangdong, China.

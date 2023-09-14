@@ -4,13 +4,13 @@
 
 ### <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/ahsoka.png" width=22px> About me
 **~~干啥啥不行，不务正业第一名！~~**
-
-<!-- - A Star Wars fan.
+- A Star Wars fan.
 - A code lover.
 - A student majoring in Computer Science.
 - A master student at Cornell University.
 - A software engineer at Bloomberg.
-- To be continued... -->
+- A violin player for 15 years.
+- To be continued...
 
 ### <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/r2d2.png" width=22px> Experiences
 <!-- ### <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/clone_trooper.png" width=20px> Introduction -->

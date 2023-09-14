@@ -9,10 +9,12 @@
 - A code lover.
 - A student majoring in Computer Science.
 - A master student at Cornell University.
+- A software engineer at Bloomberg.
 - To be continued... -->
 
 ### <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/r2d2.png" width=22px> Experiences
 <!-- ### <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/clone_trooper.png" width=20px> Introduction -->
+- SDE @ Bloomberg, New York
 - M.Eng. in Computer Science @ Cornell Tech, New York
 - B.Eng. in Computer Science and Technology @ Sun Yat-sen University, Guangzhou
 <!-- - I study in Sun Yat-sen University, Guangdong, China.
@@ -22,7 +24,7 @@
 
 <!-- ### <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/r2d2.png" width=22px> How to reach me
 
-- Mail: yz2664@cornell.edu -->
+- Mail: zouyt1110@gmail.com -->
 
 ### <img src="https://github.com/fulcrum-zou/fulcrum-zou/blob/main/pics/baby-yoda.gif" width=22px> Stats
 [![Fulcrum's GitHub stats](https://github-readme-stats.vercel.app/api?username=fulcrum-zou&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
